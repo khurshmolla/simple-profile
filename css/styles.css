@@ -1,0 +1,28 @@
+body {
+  background-color: #F3C5C5;
+}
+h1{
+  color:#632626
+}
+h3{
+  color : #1572A1
+}
+h4 {
+  color: #1572A1
+}
+
+body{
+  color: black
+}
+
+hr {
+  border-color: beige;
+  height: 0px;
+  width: 7%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+}
+img{
+  height: 50px;
+}
